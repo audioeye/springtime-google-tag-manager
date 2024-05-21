@@ -1,3 +1,5 @@
-This is a template for Springtime based on the example template provided by Google Tag Manager [Community Template Gallery template repository](https://support.google.com/tagmanager/answer/9454109) This repository that can be used as a template to generate new community template repositories.
+# Springtime Community Template
 
-Information on required steps to update the template can be found here: https://developers.google.com/tag-platform/tag-manager/templates/gallery
+The Springtime community template is a Google Tag Manager [community gallery template repository](https://support.google.com/tagmanager/answer/9454109) that can be used to easily integrate Springtime into your site with Google Tag Manager.
+
+To submit feedback, see the [Github issues](https://github.com/audioeye/springtime-google-tag-manager/issues) section.
